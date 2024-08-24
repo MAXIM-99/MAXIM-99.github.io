@@ -55,4 +55,35 @@
     border: 0;
     column-span: all;
 }
+
+.content .main-con .con-list li {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.content .main-con .con-article h3 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #CC0033;
+}
+.content .main-con .con-article .con-projects {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
+.content .main-con .con-article .con-papers {
+    font-size: 18px;
+    padding: 10px;
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+.content .main-con .con-article .con-patents {
+    font-size: 18px;
+    padding: 10px;
+    list-style-type: decimal;
+    list-style-position: inside;
+}
 /* #endregion内容区end */
