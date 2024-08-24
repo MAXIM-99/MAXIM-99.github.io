@@ -86,4 +86,7 @@
     list-style-type: decimal;
     list-style-position: inside;
 }
+.content .main-con .con-article .con-papers span {
+    font-style: italic;
+}
 /* #endregion内容区end */
